@@ -1,4 +1,4 @@
-def Stove(Appliance):
+class Stove:
 
     def __init__(self, color, heat_method="electric"):
         super.__init__(color)
